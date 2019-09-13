@@ -1,0 +1,3 @@
+nome = "Carol"
+
+print (nome)
